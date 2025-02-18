@@ -25,7 +25,6 @@ public class Day1 {
     }
 
     public static void main(String[] args) {
-        System.out.println(DEFAULT_INPUT_FILE_SOURCE);
         try (BufferedReader br = new BufferedReader(new FileReader(DEFAULT_INPUT_FILE_SOURCE))) {
             String line;
             final List<Integer> leftList = new LinkedList<>();
