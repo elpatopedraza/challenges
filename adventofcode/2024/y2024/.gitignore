@@ -15,7 +15,7 @@ target/
 ### Eclipse ###
 .apt_generated
 .classpath
-.factorypat
+.factorypath
 .project
 .settings
 .springBeans
